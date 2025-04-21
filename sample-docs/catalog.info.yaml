@@ -1,9 +1,9 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: test-versioning-docs
-  title: test-versioning-docs
-  description: This is the versioning documentation for devhub
+  name: test-docs
+  title: test-docs
+  description: This is the documentation for testing
   annotations:
     backstage.io/techdocs-ref: dir:.
 spec:
